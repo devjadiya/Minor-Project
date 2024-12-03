@@ -1,6 +1,3 @@
-# Writing the README content into a markdown file
-
-readme_content = """
 # **Automated Grading System (AGS)**  
 **Efficient | Transparent | Scalable**
 
@@ -119,9 +116,5 @@ Manual assessment processes are time-consuming and prone to inconsistencies, neg
 
 ---
 
-## **Installation**
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/automated-grading-system.git
-   cd automated-grading-system
+### **Acknowledgments:** 
+Special thanks to Dr. Divya Rishi Sahu for her guidance and support.
