@@ -46,7 +46,7 @@ Manual assessment processes are time-consuming and prone to inconsistencies, neg
 ## **Tech Stack**
 
 **Frontend:**  
-- React.js (for dynamic, responsive interfaces)  
+- Next.js (for dynamic, responsive interfaces)  
 - Tailwind CSS (for utility-first styling and rapid design)  
 
 **Backend:**  
